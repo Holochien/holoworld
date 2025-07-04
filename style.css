@@ -11,7 +11,7 @@ table.main {
     width: 80%;
     margin: auto;
     border: 3px double #000080;
-    background-color: #576cbc;
+    background-image: url(fond_2.png);
 }
 
 td.header {
