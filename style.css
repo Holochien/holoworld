@@ -22,13 +22,13 @@ td.header {
 }
 
 td.menu {
-    background: #96a9db;
+    background: #4b91f1;
     text-align: center;
     padding: 10px;
 }
 
 td.menu a {
-    color: #4b91f1;
+    color: #ffffff;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -40,7 +40,7 @@ td.content {
 
 td.content h2 a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 
 td.footer {
