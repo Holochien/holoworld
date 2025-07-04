@@ -1,0 +1,51 @@
+
+body {
+    background-color: #f0f0f0;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #000080;
+    margin: 0;
+    padding: 20px;
+}
+
+table.main {
+    width: 80%;
+    margin: auto;
+    border: 3px double #000080;
+    background-color: #ffffff;
+}
+
+td.header {
+    background: #ffcc00;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5em;
+}
+
+td.menu {
+    background: #ccffff;
+    text-align: center;
+    padding: 10px;
+}
+
+td.menu a {
+    color: #000080;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+td.content {
+    padding: 20px;
+}
+
+td.content h2 a {
+    text-decoration: none;
+    color: #cc0000;
+}
+
+td.footer {
+    background: #ffcc00;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 10px;
+}
